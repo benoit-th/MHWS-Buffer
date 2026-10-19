@@ -1,0 +1,211 @@
+{
+    "window": {
+        "toggle_button": "Afficher/masquer l'interface",
+        "title": "Modificateurs et paramètres",
+        "settings": "Paramètres",
+        "language": "Langue",
+        "font_size": "Taille de police",
+        "font_size_apply": "Appliquer",
+        "about": "À propos",
+        "author": "Auteur",
+        "translator": "Traducteur",
+        "version": "Version",
+        "bindings": {
+            "title": "Raccourcis",
+            "keyboard": "Clavier",
+            "gamepad": "Manette",
+            "remove": "Supprimer",
+            "add_keyboard": "Ajouter un raccourci clavier",
+            "add_gamepad": "Ajouter un raccourci manette",
+            "choose_modification": "Choisir une modification",
+            "on_value": "Valeur à l'activation",
+            "to_listen": "Démarrer la détection des touches",
+            "listening": "Détection des touches en cours",
+            "save": "Enregistrer",
+            "cancel": "Annuler",
+            "enabled": "a été activé(e).",
+            "disabled": "a été désactivé(e).",
+            "set_to": "a été réglé(e) sur %d."
+        }
+    },
+    "base": {
+        "disabled": "Désactivé"
+    },
+    "character": {
+        "title": "Personnage",
+        "stamina": {
+            "title": "Endurance",
+            "max": "Endurance max",
+            "unlimited": "Endurance illimitée"
+        },
+        "health": {
+            "title": "Santé",
+            "max": "Santé max",
+            "unlimited": "Santé illimitée",
+            "healing": "Soin",
+            "healing_tooltip": "Toute la santé perdue devient récupérable."
+        },
+        "blights_and_conditions": {
+            "title": "Fléaux et altérations d'état",
+            "tooltip": "Empêche les fléaux et les altérations d'état",
+            "blights": {
+                "title": "Fléaux",
+                "fire": "Feu",
+                "water": "Eau",
+                "ice": "Glace",
+                "thunder": "Foudre",
+                "dragon": "Dragon",
+                "all": "Tous"
+            },
+            "conditions": {
+                "title": "Altérations d'état",
+                "poison": "Poison",
+                "sleep": "Sommeil",
+                "paralyze": "Paralysie",
+                "blast": "Explosion",
+                "stun": "Étourdissement",
+                "defense_down": "Défense réduite",
+                "bleed": "Saignement",
+                "stench": "Puanteur",
+                "sticky": "Englué",
+                "frenzy": "Frénésie",
+                "frozen": "Gelé",
+                "all": "Toutes "
+            }
+        },
+        "item_buffs": {
+            "title": "Bonus d'objets",
+            "might_pill": "Pilule de force",
+            "adamant_pill": "Pilule d'armure",
+            "demon_powder": "Poudre démon",
+            "hardshell_powder": "Poudre carapace",
+            "mega_demondrug": "Méga démoniaque",
+            "mega_armorskin": "Méga peau d'armure",
+            "cool_drink": "Boisson fraîche",
+            "hot_drink": "Boisson chaude",
+            "dash_juice": "Jus d'endurance",
+            "imunizer": "Immunisant"
+        },
+        "mantles": {
+            "title": "Capes",
+            "instant_cooldown": "Recharge instantanée",
+            "unlimited_duration": "Durée illimitée"
+        },
+        "unlimited_sharpness": "Tranchant illimité",
+        "unlimited_consumables": "Consommables illimités",
+        "unlimited_slingers": "Munitions de lance-pierre illimitées"
+    },
+
+    "great_sword": {
+        "title": "Grande épée",
+        "true_charge_boost": "Bonus de charge ultime",
+        "true_charge_boost_tooltip": "Bonus sur le premier coup de la charge ultime",
+        "instant_charge": "Charge instantanée"
+    },
+    "sword_and_shield": {
+        "title": "Épée et bouclier"
+    },
+    "dual_blades": {
+        "title": "Lames doubles",
+        "demon_gauge": "Jauge démon pleine",
+        "demon_boost": "Activer le boost démon"
+    },
+    "long_sword": {
+        "title": "Épée longue",
+        "aura_level": "Niveau d'aura",
+        "aura_level_tooltip": "Si vous passez de 0 à 1, vous devrez remplir la jauge pour activer l'aura",
+        "max_aura_gauge": "Jauge d'aura au max",
+        "max_spirit_gauge": "Jauge d'esprit au max"
+    },
+    "insect_glaive": {
+        "title": "Insectoglaive",
+        "kinsect": {
+            "title": "Kinsecte",
+            "power": "Puissance",
+            "speed": "Vitesse",
+            "recovery": "Récupération",
+            "unlimited_stamina": "Endurance illimitée",
+            "fast_charge": "Charge rapide",
+            "charge_time": "Temps de charge %",
+            "charge_time_tooltip": "« Temps de charge % » définit le temps nécessaire pour atteindre la charge maximale, en pourcentage du temps de charge d'origine.\n Plus la valeur est petite, plus la charge est rapide."
+        },
+        "red": "Essence rouge",
+        "orange": "Essence orange",
+        "white": "Essence blanc",
+        "infinite_air_attacks": "Attaques aériennes infinies",
+        "fast_charge": "Charge rapide",
+        "charge_time": "Temps de charge %",
+        "charge_time_tooltip": "« Temps de charge % » définit le temps nécessaire pour atteindre la charge maximale, en pourcentage du temps de charge d'origine.\n Plus la valeur est petite, plus la charge est rapide.",
+        "unrestricted_charge": "Charge sans restriction",
+        "unrestricted_charge_tooltip": "Permet de charger pendant certains mouvements qui ne le permettent normalement pas (par ex. pendant les attaques chargées, ou lorsque l'arme est rengainée)"
+    },
+
+    "hammer": {
+        "title": "Marteau",
+        "instant_charge": "Charge instantanée"
+    },
+    "hunting_horn": {
+        "title": "Corne de chasse",
+        "unlimited_echo_bubbles": "Bulles d'écho illimitées"
+    },
+
+    "lance": {
+        "title": "Lance",
+        "counter_charge_level": "Niveau de charge de contre",
+        "rush_level": "Niveau de ruée",
+        "infinite_backstep": "Pas arrière infinis"
+    },
+    "gunlance": {
+        "title": "Lancecanon",
+        "shell_level": "Niveau d'obus",
+        "infinite_wyvern_fire": "Feu de wyverne infini",
+        "infinite_backstep": "Pas arrière infinis",
+        "instant_charge": "Charge instantanée",
+        "instant_charge_tooltip": "Maintenez un instant, puis relâchez pour tirer",
+        "free_charge_shot": "Tir chargé gratuit"
+    },
+
+    "bow": {
+        "title": "Arc",
+        "charge_level": "Niveau de charge",
+        "all_arrow_types": "Tous les types de flèches",
+        "unlimited_bottles": "Fioles illimitées",
+        "tetrad_shot_active": "Tir tétrade actif",
+        "max_trick_arrow_gauge": "Jauge de flèches spéciales au max"
+    },
+    "light_bowgun": {
+        "title": "Fusarbalète léger",
+        "max_special_ammo": "Munitions spéciales au max",
+        "max_rapid_shot": "Tir rapide au max",
+        "max_eagle_shot": "Tir de l'aigle au max",
+        "instant_eagle_shot_charge": "Charge instantanée du tir de l'aigle",
+        "unlimited_ammo": "Munitions illimitées",
+        "no_reload": "Sans rechargement",
+        "no_recoil": "Sans recul"
+    },
+    "heavy_bowgun": {
+        "title": "Fusarbalète lourd",
+        "max_special_ammo": "Munitions spéciales au max",
+        "max_wyvern_howl": "Hurlement de wyverne au max",
+        "max_gatling_hits": "Coups de mitrailleuse au max",
+        "max_gatling_hits_tooltip": "N'affecte que l'Ignition Coeur de wyverne",
+        "unlimited_ammo": "Munitions illimitées",
+        "no_reload": "Sans rechargement",
+        "no_recoil": "Sans recul"
+    },
+
+    "charge_blade": {
+        "title": "Volto-hache",
+        "max_phials": "Fioles au max",
+        "overcharge_phials": "Fioles en surcharge",
+        "shield_enhanced": "Bouclier renforcé",
+        "sword_enhanced": "Épée renforcée",
+        "axe_enhanced": "Hache renforcée"
+    },
+    "switch_axe": {
+        "title": "Morpho-hache",
+        "max_charge": "Charge max",
+        "max_sword_charge": "Charge de l'épée max",
+        "powered_axe": "Hache amplifiée"
+    }
+}
